@@ -9,7 +9,7 @@
 To clone this repository:
 
 ```
-git clone https://github.com/LeoMartinezTAMUK/Ransomware_Family_Classification_ML.git
+git clone https://github.com/LeoMartinezTAMUK/CBOW_NLP_Cosine-Similarity.git
 ```
 
 ---
