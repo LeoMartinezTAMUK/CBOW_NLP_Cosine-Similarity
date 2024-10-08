@@ -64,12 +64,9 @@ The similarity between the word pairs is computed using cosine similarity, and t
 
 1. Ensure that all required libraries are installed:
 2. Download necessary NLTK resources:
-```python
 nltk.download('punkt')
 3. Specify the path to the research paper obtained from IEEE Xplore
-```python
 pdf_file_path = "research_paper.pdf"
-
 
 ### Note:
 
